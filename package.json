@@ -1,0 +1,16 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^4.5.2"
+  }
+}
